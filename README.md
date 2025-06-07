@@ -1,1 +1,2 @@
-# file
+Ritik Thakur 
+github profile
