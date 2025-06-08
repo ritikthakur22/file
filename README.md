@@ -1,2 +1,2 @@
-Ritik Thakur 
-github profile
+# Ritik Thakur 
+hi there
